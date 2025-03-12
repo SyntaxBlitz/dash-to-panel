@@ -1,3 +1,11 @@
+tja forked 20250311 because my computer should not automatically update itself into being my adversary
+
+that's why i don't use windows, eyeroll
+
+i donate to plenty of open-source projects *because* i am glad they don't cause my computer to act against my interests. certainly not intentionally, anyway
+
+god damn
+
 <p align="left">
   <img src="/media/design/svg/D2P_logo.svg" width="620"/>
 </p>
